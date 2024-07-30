@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "334637984829",
+    "firebase_url": "https://journeytrail-aadce-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "journeytrail-aadce",
+    "storage_bucket": "journeytrail-aadce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334637984829:android:12529351bbf4dcc0148e54",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrqrolMNYV2BpWDYXFzy8bTxMr1EFEhdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
